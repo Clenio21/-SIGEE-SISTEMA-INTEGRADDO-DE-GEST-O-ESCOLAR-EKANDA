@@ -1,0 +1,26 @@
+#form1{
+	padding-bottom:40px;
+	padding-top:40px;
+	margin:auto auto;
+	
+	
+}
+#logo{
+	width:100%;
+	height:auto;
+}
+
+.Fa{
+	border-radius: 10%;
+	
+	background-color:#000000;
+}
+
+.ErroLog {
+  color: red;
+  
+}
+
+/*Welcome to Sistema de Gestão Escolar - EKANDA! Developed BY Eng.Clenio */
+
+  
